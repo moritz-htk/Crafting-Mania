@@ -1,9 +1,116 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "UltimateEgg",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimate_egg",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/crafting_mania/models/item/ultimate_egg.json",
+          "src/main/java/simon_mc/crafting_mania/item/UltimateEggItem.java"
+        ]
+      }
+    },
+    {
+      "name": "FailedDragonEgg",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "failed_dragon_egg",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/crafting_mania/models/item/failed_dragon_egg.json",
+          "src/main/java/simon_mc/crafting_mania/item/FailedDragonEggItem.java"
+        ]
+      }
+    },
+    {
+      "name": "FailedNetherStar",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "failed_nether_star",
+      "metadata": {
+        "files": [
+          "src/main/java/simon_mc/crafting_mania/item/FailedNetherStarItem.java",
+          "src/main/resources/assets/crafting_mania/models/item/failed_nether_star.json"
+        ]
+      }
+    },
+    {
+      "name": "EssenceBottle",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "essence_bottle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/crafting_mania/models/item/essence_bottle.json",
+          "src/main/java/simon_mc/crafting_mania/item/EssenceBottleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CreeperEssenceBottle",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creeper_essence_bottle",
+      "metadata": {
+        "files": [
+          "src/main/java/simon_mc/crafting_mania/item/CreeperEssenceBottleItem.java",
+          "src/main/resources/assets/crafting_mania/models/item/creeper_essence_bottle.json"
+        ]
+      }
+    },
+    {
+      "name": "BeeEssenceBottle",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bee_essence_bottle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/crafting_mania/models/item/bee_essence_bottle.json",
+          "src/main/java/simon_mc/crafting_mania/item/BeeEssenceBottleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TurtleEssenceBottle",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turtle_essence_bottle",
+      "metadata": {
+        "files": [
+          "src/main/java/simon_mc/crafting_mania/item/TurtleEssenceBottleItem.java",
+          "src/main/resources/assets/crafting_mania/models/item/turtle_essence_bottle.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.crafting_mania.failed_dragon_egg": "Failed Dragon Egg",
+      "item.crafting_mania.creeper_essence_bottle": "Creeper Essence Bottle",
+      "item.crafting_mania.ultimate_egg": "Ultimate Egg",
+      "item.crafting_mania.bee_essence_bottle": "Bee Essence Bottle",
+      "item.crafting_mania.turtle_essence_bottle": "Turtle Essence Bottle",
+      "item.crafting_mania.essence_bottle": "Essence Bottle",
+      "item.crafting_mania.failed_nether_star": "Failed Nether Star"
+    }
   },
   "foldersRoot": {
     "name": "~",

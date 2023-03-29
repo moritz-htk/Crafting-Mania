@@ -13,6 +13,8 @@
  */
 package simon_mc.crafting_mania;
 
+import simon_mc.crafting_mania.init.CraftingManiaModItems;
+
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
@@ -47,6 +49,8 @@ public class CraftingManiaMod {
 		MinecraftForge.EVENT_BUS.register(this);
 
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+
+		CraftingManiaModItems.REGISTRY.register(bus);
 
 	}
 

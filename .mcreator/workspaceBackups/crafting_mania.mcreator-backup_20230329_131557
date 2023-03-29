@@ -1,0 +1,49 @@
+{
+  "mod_elements": [
+    {
+      "name": "UltimateEgg",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimate_egg",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/crafting_mania/models/item/ultimate_egg.json",
+          "src/main/java/simon_mc/crafting_mania/item/UltimateEggItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.crafting_mania.ultimate_egg": "Ultimate Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "crafting_mania",
+    "modName": "Crafting Mania",
+    "version": "1.5.0",
+    "description": "This mod aims to add a craft for all items that haven´t one yet.",
+    "author": "ckmrd1, simon_mc2008",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/crafting-mania",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": ":)",
+    "modElementsPackage": "simon_mc.crafting_mania",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="crafting_mania"
+version="1.5.0"
+displayName="Crafting Mania"
+credits=":)"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/crafting-mania"
+logoFile="logo.png"
+authors="ckmrd1, simon_mc2008"
+description='''
+This mod aims to add a craft for all items that haven´t one yet.
+'''
+
+[[dependencies.crafting_mania]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
