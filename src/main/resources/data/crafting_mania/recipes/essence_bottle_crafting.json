@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:soul_soil"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:soul_sand"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:glass_bottle"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:soul_sand"
+    },
+    "7": {
+      "item": "minecraft:experience_bottle"
+    },
+    "8": {
+      "item": "minecraft:soul_soil"
+    }
+  },
+  "result": {
+    "item": "crafting_mania:essence_bottle",
+    "count": 1
+  }
+}

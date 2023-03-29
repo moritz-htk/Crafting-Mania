@@ -251,32 +251,6 @@
           "src/main/resources/data/crafting_mania/recipes/ultimate_egg_crafting.json"
         ]
       }
-    },
-    {
-      "name": "EssenceBottleCrafting",
-      "type": "recipe",
-      "sortid": 20,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "essence_bottle_crafting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/crafting_mania/recipes/essence_bottle_crafting.json"
-        ]
-      }
-    },
-    {
-      "name": "ExperienceBottleCrafting",
-      "type": "recipe",
-      "sortid": 21,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "experience_bottle_crafting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/crafting_mania/recipes/experience_bottle_crafting.json"
-        ]
-      }
     }
   ],
   "variable_elements": [],

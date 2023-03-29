@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.QUARTZ"
+      },
+      {
+        "value": "Items.DYE#4"
+      },
+      {
+        "value": "Items.GLASS_BOTTLE"
+      },
+      {
+        "value": "Items.DYE#4"
+      },
+      {
+        "value": "Items.QUARTZ"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.REDSTONE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.EXPERIENCE_BOTTLE"
+    },
+    "name": "experience_bottle_crafting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.DRAGON_BREATH"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.DRAGON_BREATH"
+      },
+      {
+        "value": "CUSTOM:UltimateEgg"
+      },
+      {
+        "value": "Items.DRAGON_BREATH"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.DRAGON_BREATH"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FailedDragonEgg"
+    },
+    "name": "fail_dragon_egg_crafting",
+    "namespace": "mod"
+  }
+}
