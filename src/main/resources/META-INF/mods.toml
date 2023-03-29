@@ -8,7 +8,8 @@ version="1.5.0"
 displayName="Crafting Mania"
 credits=":)"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/crafting-mania"
-authors="ckmrd1"
+logoFile="logo.png"
+authors="ckmrd1, simon_mc2008"
 description='''
 This mod aims to add a craft for all items that haven´t one yet.
 '''
