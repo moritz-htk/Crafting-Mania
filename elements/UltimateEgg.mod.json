@@ -8,7 +8,7 @@
     "name": "Ultimate Egg",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:CraftingManiaCreativeTab"
     },
     "stackSize": 64,
     "enchantability": 0,

@@ -101,7 +101,6 @@
     {
       "name": "CraftingManiaCreativeTab",
       "type": "tab",
-      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crafting_mania_creative_tab",

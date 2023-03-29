@@ -8,7 +8,7 @@
     "name": "Bee Essence Bottle",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:CraftingManiaCreativeTab"
     },
     "stackSize": 64,
     "enchantability": 0,
