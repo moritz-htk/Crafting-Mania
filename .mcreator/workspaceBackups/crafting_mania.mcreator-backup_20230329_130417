@@ -1,0 +1,31 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "crafting_mania",
+    "modName": "Crafting Mania",
+    "version": "1.5.0",
+    "author": "ckmrd1",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/crafting-mania",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": ":)",
+    "modElementsPackage": "simon_mc.crafting_mania",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
